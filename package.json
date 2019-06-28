@@ -1,0 +1,26 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "lab number two",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liz-kavalski-401-advanced-javascript/lab-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liz-kavalski-401-advanced-javascript/lab-02/issues"
+  },
+  "homepage": "https://github.com/liz-kavalski-401-advanced-javascript/lab-02#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "eslint": "^6.0.1"
+  }
+}
