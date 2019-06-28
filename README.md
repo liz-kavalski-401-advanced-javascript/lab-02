@@ -1,5 +1,8 @@
 # LAB: Classes, Inheritance, Functional Programming
 
+[![Build Status](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-02.svg?branch=master)](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-02)
+
+
 ## Before you begin
 Refer to *Getting Started* in the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for complete setup instructions
 
