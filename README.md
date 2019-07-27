@@ -11,8 +11,9 @@
 
 ### Modules
 * list-constructor.js
-
+  * using the constructor methods using different type of array methods
 * list.js
+  * using the class method using different tpye of array methods
 * vehicle-class.js
  class gives methods that related to the class.
 * vehicle-constructor.js
@@ -26,5 +27,3 @@
 * The assertions I made was the on the vehicles-constructors and class test passing. 
 * The assertions  I need to, or should be made is getting a better coverage on the the list.js as that show that they are passing the test but only about 55%-66%
 
-#### UML
-No image is need for this lab.
