@@ -7,22 +7,21 @@
 ### Links and Resources
 * [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-02/pull/3)
 * [travis](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-02)
-* [back-end](http://xyz.com) (None at this time)
-* [front-end](http://xyz.com) (None at this time)
 
-#### Documentation
-* None at this time
 
 ### Modules
-* None at this time
+* list-constructor.js
+* list.js
+* vehicle-class.js
+* vehicle-constructor.js
 
 #### Running the app
-* run a `npm i` to download the dependices.
+* `npm test`
   
 #### Tests
 * To run tests `run npm test`
-* The assertions I made were that mostly on the vehicles-constructors and class
-* The assertions  I need to be, or should be made is fixing the list constuctors. 
+* The assertions I made was the on the vehicles-constructors and class test passing
+* The assertions  I need to, or should be made is getting a better coverage on the the list.js as that show that they are passing the test but only about 55%-66%
 
 #### UML
 No image is need for this lab.
