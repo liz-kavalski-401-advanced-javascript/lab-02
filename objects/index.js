@@ -3,6 +3,7 @@
 const VehicleConstructor = require('./vehicle-constructor.js');
 
 const VehicleClass= require ('./vehicle-class');
+
 // Implement a car and motorcycle using a Constructor
 const mazda = new VehicleConstructor.Car('Mazda 3');
 console.log(mazda.name, mazda.drive(), mazda.stop());
