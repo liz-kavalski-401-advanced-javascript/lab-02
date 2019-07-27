@@ -17,16 +17,12 @@
 * None at this time
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* run a `npm i` to download the dependices.
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* To run tests `run npm test`
+* The assertions I made were that mostly on the vehicles-constructors and class
+* The assertions  I need to be, or should be made is fixing the list constuctors. 
 
 #### UML
 No image is need for this lab.
