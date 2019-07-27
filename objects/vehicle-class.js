@@ -4,21 +4,21 @@ class Vehicle {
   constructor(name){
     this.name = name;
     }
-  drive = () => 'Moving Forward';
-  stop = () => 'Stopping';
+  drive() {return 'Moving Forward'};
+  stop() { return 'Stopping';}
 };
 
 class Car extends Vehicle {
  constructor(wheel){
-   this.wheel= 4;
+   this.wheel= '4';
  };
 };
 
 class Motorcycle extends Vehicle {
   constructor(wheel){
-    this.wheel= 2;
+    this.wheel= '2';
   };
-  wheelie= ()=> 'Wheee!';
+  wheelie() {return 'Wheee!'};
 };
 
 module.exports = Car;
