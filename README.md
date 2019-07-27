@@ -11,16 +11,19 @@
 
 ### Modules
 * list-constructor.js
+
 * list.js
 * vehicle-class.js
+ class gives methods that related to the class.
 * vehicle-constructor.js
+ Use the `prototype` method to make a method for the constuctor. 
 
 #### Running the app
 * `npm test`
   
 #### Tests
 * To run tests `run npm test`
-* The assertions I made was the on the vehicles-constructors and class test passing
+* The assertions I made was the on the vehicles-constructors and class test passing. 
 * The assertions  I need to, or should be made is getting a better coverage on the the list.js as that show that they are passing the test but only about 55%-66%
 
 #### UML
