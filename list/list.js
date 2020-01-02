@@ -29,5 +29,5 @@ class List {
   }
 
 }
-
+// 'delete' on line 26 is deleting the data at the end of the length of the array.
 module.exports = List;
