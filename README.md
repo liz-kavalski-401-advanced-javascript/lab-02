@@ -1,3 +1,4 @@
+
 # LAB 2: Classes, Inheritance, Functional Programming
 [![Build Status](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-02.svg?branch=master)](https://travis-ci.com/liz-kavalski-401-advanced-javascript/lab-02)
 
